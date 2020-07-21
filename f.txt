@@ -1,0 +1,1 @@
+Use fetch to get it on EC2 instance.
